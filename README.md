@@ -1,2 +1,2 @@
-# cccSimple
-ccc
+# hello-world
+Hello world new project template.
