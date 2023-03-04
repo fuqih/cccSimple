@@ -11,6 +11,7 @@ export default class MainScene extends cc.Component implements IController {
     }
     onLoad() {
         cc.dynamicAtlasManager.enabled = false
+        cc.assetManager.loadBundle("TestBundle")
         this.getArchitecture().GetSystem(UIManager).open(UIID.ExampleJump)
     }
     start() {

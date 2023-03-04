@@ -22,11 +22,19 @@ export default class UIExampleResLoad extends BaseUIKeeperView {
     loadItem() {
         if (!this.item) {
             cc.resources.load('Prefabs/CommonItems/CocosHead', cc.Prefab, (err: Error, assets: cc.Prefab) => {
-                this.asset = assets
-                // this.asset.addRef()
-                this.item = cc.instantiate(assets)
-                this.item.parent = this.node
+                if (!this.asset) {
+                    this.asset = assets
+                    this.asset.addRef()
+                    this.item = cc.instantiate(assets)
+                    this.item.parent = this.node
+                }
             })
+            // cc.assetManager.getBundle("TestBundle").load('testJ', cc.JsonAsset, (err: Error, asset: cc.JsonAsset) => {
+            //     if (!err) {
+            //         let as = asset
+            //         console.log(asset)
+            //     }
+            // })
         }
     }
     delItem() {
@@ -41,7 +49,6 @@ export default class UIExampleResLoad extends BaseUIKeeperView {
             // cc.resources.release()
             this.asset = null
         }
-        cc.assetManager.removeBundle
     }
     // update (dt) {}
     onDestroy(): void {

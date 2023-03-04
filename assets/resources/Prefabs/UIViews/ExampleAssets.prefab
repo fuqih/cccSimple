@@ -13,7 +13,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "ExampleResLoad",
+    "_name": "ExampleAssets",
     "_objFlags": 0,
     "_parent": null,
     "_children": [
@@ -971,7 +971,7 @@
       "__id__": 1
     },
     "component": "",
-    "_componentId": "33acfWiq1tPS4/7oG0caQn4",
+    "_componentId": "0e213jR7yhEabUaEgcAwHUJ",
     "handler": "checkResRef",
     "customEventData": ""
   },
@@ -1395,7 +1395,7 @@
       "__id__": 1
     },
     "component": "",
-    "_componentId": "33acfWiq1tPS4/7oG0caQn4",
+    "_componentId": "0e213jR7yhEabUaEgcAwHUJ",
     "handler": "openNewWindow",
     "customEventData": ""
   },
@@ -1819,7 +1819,7 @@
       "__id__": 1
     },
     "component": "",
-    "_componentId": "33acfWiq1tPS4/7oG0caQn4",
+    "_componentId": "0e213jR7yhEabUaEgcAwHUJ",
     "handler": "loadItem",
     "customEventData": ""
   },
@@ -1883,16 +1883,16 @@
     "_id": ""
   },
   {
-    "__type__": "33acfWiq1tPS4/7oG0caQn4",
+    "__type__": "0e213jR7yhEabUaEgcAwHUJ",
     "_name": "",
     "_objFlags": 0,
     "node": {
       "__id__": 1
     },
     "_enabled": true,
-    "quickClose": false,
+    "quickClose": true,
     "cache": false,
-    "showType": 0,
+    "showType": 2,
     "label": {
       "__id__": 9
     },
