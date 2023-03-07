@@ -6,6 +6,6 @@ const { ccclass, property } = cc._decorator;
 @ccclass
 export default class ExampleJump extends BaseUIKeeperView {
     openWnd(eName: string, data: any) {
-        this.getArchitecture().GetSystem(UIManager).open(UIID.ExampleScreenShoot)
+        this.getArchitecture().GetSystem(UIManager).open(UIID.ExampleNodeEvent);
     }
 }

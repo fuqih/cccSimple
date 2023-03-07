@@ -21,6 +21,7 @@ export default class UIExampleResLoad extends BaseUIKeeperView {
     }
     loadItem() {
         if (!this.item) {
+            //cc.Texture2D.PixelFormat.RGBA8888
             cc.resources.load('Prefabs/CommonItems/CocosHead', cc.Prefab, (err: Error, assets: cc.Prefab) => {
                 if (!this.asset) {
                     this.asset = assets
