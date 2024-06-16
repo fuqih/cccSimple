@@ -3,7 +3,6 @@ import PolygonSprite from "./PolygonSprite";
 const { ccclass, property } = cc._decorator;
 
 const gfx = cc['gfx'];
-
 // 顶点格式 -> 位置 UV, 颜色
 let vfmtPosUvColor = new gfx.VertexFormat([
     { name: gfx.ATTR_POSITION, type: gfx.ATTR_TYPE_FLOAT32, num: 2 },
