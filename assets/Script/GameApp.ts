@@ -31,4 +31,5 @@ export class SimpleGame extends Architecture<SimpleGame> {
         this.RegisterSystem(new UIManager())
         this.GetSystem(UIManager).replaceUIConf(UICF)
     }
+
 }
