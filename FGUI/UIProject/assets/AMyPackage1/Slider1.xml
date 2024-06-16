@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="112,23" extention="Slider">
+  <Slider/>
+  <displayList>
+    <image id="n0_lwe2" src="lwe21k" name="n0" xy="0,0" size="112,23">
+      <relation target="" sidePair="width,height"/>
+    </image>
+    <image id="n1_lwe2" src="lwe21j" name="bar" xy="5,10" size="102,3"/>
+    <component id="n2_lwe2" name="grip" xy="102,2" src="lwe21o">
+      <relation target="n1_lwe2" sidePair="right-right"/>
+    </component>
+  </displayList>
+</component>

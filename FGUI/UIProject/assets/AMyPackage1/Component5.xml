@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,600">
+  <displayList>
+    <image id="n0_lwe2" name="n0" src="lwe21" fileName="angry_smile_png.png" xy="330,68" pivot="0.5,0.5"/>
+    <component id="n1_lwe2" name="n1" src="lwe21i" fileName="Button1.xml" xy="11,11"/>
+    <list id="n2_lwe2" name="n2" xy="597,8" size="200,300" overflow="scroll">
+      <item url="ui://uq881ondlwe21i"/>
+      <item url="ui://uq881ondlwe21i"/>
+      <item url="ui://uq881ondlwe21i"/>
+      <item url="ui://uq881ondlwe21i"/>
+      <item url="ui://uq881ondlwe21i"/>
+      <item url="ui://uq881ondlwe21i"/>
+      <item url="ui://uq881ondlwe21i"/>
+      <item url="ui://uq881ondlwe21i"/>
+      <item url="ui://uq881ondlwe21i"/>
+      <item url="ui://uq881ondlwe21i"/>
+    </list>
+    <component id="n4_lwe2" name="n4" src="lwe21l" fileName="ProgressBar1.xml" xy="33,111" scale="2,2">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n5_lwe2" name="n5" src="lwe21p" fileName="Slider1.xml" xy="33,191" scale="2,2">
+      <Slider value="50" max="100"/>
+    </component>
+  </displayList>
+  <transition name="t2">
+    <item time="0" type="XY" target="n0_lwe2" tween="true" startValue="330,68" endValue="530,223" duration="6"/>
+    <item time="6" type="Rotation" target="n0_lwe2" tween="true" startValue="0" endValue="0" duration="6"/>
+    <item time="12" type="Rotation" target="n0_lwe2" tween="true" startValue="0" endValue="90" duration="6"/>
+    <item time="18" type="Rotation" target="n0_lwe2" tween="true" startValue="90" endValue="0" duration="6"/>
+  </transition>
+</component>

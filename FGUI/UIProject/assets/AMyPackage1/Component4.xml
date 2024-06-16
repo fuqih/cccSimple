@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,600">
+  <controller name="c1" alias="Trigger" exported="true" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n0_lwe2" name="n0" src="lwe21" fileName="angry_smile_png.png" xy="58,157">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearXY controller="c1" pages="1" values="397,53" default="58,157" tween="true"/>
+    </image>
+  </displayList>
+</component>

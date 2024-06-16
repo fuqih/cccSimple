@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="uq881ond">
+  <resources>
+    <component id="lwe20" name="Component1.xml" path="/"/>
+    <image id="lwe21" name="angry_smile_png.png" path="/" scale9grid="8,8,16,16"/>
+    <movieclip id="lwe22" name="MovieClip1.jta" path="/"/>
+    <image id="lwe23" name="100016.png" path="/Folder/"/>
+    <image id="lwe24" name="100013.png" path="/Folder/"/>
+    <image id="lwe25" name="100012.png" path="/Folder/"/>
+    <image id="lwe26" name="100011.png" path="/Folder/"/>
+    <image id="lwe27" name="100010.png" path="/Folder/"/>
+    <image id="lwe28" name="100009.png" path="/Folder/"/>
+    <image id="lwe29" name="100008.png" path="/Folder/"/>
+    <image id="lwe2a" name="100007.png" path="/Folder/"/>
+    <image id="lwe2b" name="100006.png" path="/Folder/"/>
+    <image id="lwe2c" name="100005.png" path="/Folder/"/>
+    <image id="lwe2d" name="100004.png" path="/Folder/"/>
+    <image id="lwe2e" name="100003.png" path="/Folder/"/>
+    <image id="lwe2f" name="100002.png" path="/Folder/"/>
+    <image id="lwe2g" name="100001.png" path="/Folder/"/>
+    <image id="lwe2h" name="100000.png" path="/Folder/"/>
+    <image id="lwe2i" name="100031.png" path="/Folder/"/>
+    <image id="lwe2j" name="100030.png" path="/Folder/"/>
+    <image id="lwe2k" name="100029.png" path="/Folder/"/>
+    <image id="lwe2l" name="100028.png" path="/Folder/"/>
+    <image id="lwe2m" name="100027.png" path="/Folder/"/>
+    <image id="lwe2n" name="100026.png" path="/Folder/"/>
+    <image id="lwe2o" name="100025.png" path="/Folder/"/>
+    <image id="lwe2p" name="100024.png" path="/Folder/"/>
+    <image id="lwe2q" name="100023.png" path="/Folder/"/>
+    <image id="lwe2r" name="100022.png" path="/Folder/"/>
+    <image id="lwe2s" name="100021.png" path="/Folder/"/>
+    <image id="lwe2t" name="100020.png" path="/Folder/"/>
+    <image id="lwe2u" name="100019.png" path="/Folder/"/>
+    <image id="lwe2v" name="100018.png" path="/Folder/"/>
+    <image id="lwe2w" name="100017.png" path="/Folder/"/>
+    <image id="lwe2x" name="100014.png" path="/Folder/"/>
+    <image id="lwe2y" name="100015.png" path="/Folder/"/>
+    <movieclip id="lwe210" name="timg.jta" path="/"/>
+    <image id="lwe211" name="0001_8_png.png" path="/font/"/>
+    <image id="lwe212" name="0002_7_png.png" path="/font/"/>
+    <image id="lwe213" name="0003_6_png.png" path="/font/"/>
+    <image id="lwe214" name="0004_5_png.png" path="/font/"/>
+    <image id="lwe215" name="0005_4_png.png" path="/font/"/>
+    <image id="lwe216" name="0006_3_png.png" path="/font/"/>
+    <image id="lwe217" name="0007_2_png.png" path="/font/"/>
+    <image id="lwe218" name="0008_1_png.png" path="/font/"/>
+    <image id="lwe219" name="0009_0-_png.png" path="/font/"/>
+    <image id="lwe21a" name="0000_9_png.png" path="/font/"/>
+    <font id="lwe21b" name="Font1.fnt" path="/" exported="true"/>
+    <component id="lwe21c" name="Component2.xml" path="/"/>
+    <component id="lwe21d" name="Component3.xml" path="/"/>
+    <component id="lwe21e" name="Component4.xml" path="/"/>
+    <component id="lwe21f" name="Component5.xml" path="/"/>
+    <image id="lwe21g" name="b5.png" path="/btns/"/>
+    <image id="lwe21h" name="b4.png" path="/btns/"/>
+    <component id="lwe21i" name="Button1.xml" path="/"/>
+    <image id="lwe21j" name="p11_png.png" path="/Progress/"/>
+    <image id="lwe21k" name="p10_png.png" path="/Progress/"/>
+    <component id="lwe21l" name="ProgressBar1.xml" path="/"/>
+    <image id="lwe21m" name="p14_png.png" path="/Progress/"/>
+    <image id="lwe21n" name="p15_png.png" path="/Progress/"/>
+    <component id="lwe21o" name="Slider1_grip.xml" path="/"/>
+    <component id="lwe21p" name="Slider1.xml" path="/"/>
+    <component id="b3ea1q" name="Component6.xml" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

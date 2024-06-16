@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,600" mask="n10_q3g2" reversedMask="true">
+  <displayList>
+    <movieclip id="n5_lwe2" name="n5" src="lwe210" fileName="timg.jta" xy="1,-2" size="798,420" aspect="true"/>
+    <text id="n0_lwe2" name="n0" xy="179,129" size="52,34" fontSize="24" text="文本"/>
+    <image id="n1_lwe2" name="n1" src="lwe21" fileName="angry_smile_png.png" xy="424,208" size="32,32"/>
+    <graph id="n2_lwe2" name="n2" xy="117,225" size="188,127" type="rect"/>
+    <movieclip id="n3_lwe2" name="n3" src="lwe22" fileName="MovieClip1.jta" xy="631,267"/>
+    <text id="n6_lwe2" name="n6" xy="31,15" size="602,154" fontSize="24" ubb="true" autoSize="none" text="[color=#00ffcc]文本[/color]不可以交互及图文混排及url"/>
+    <richtext id="n8_lwe2" name="n8" xy="43,179" size="584,83" fontSize="24" autoSize="none" text=""/>
+    <text id="n7_lwe2" name="n7" xy="43,287" size="573,138" fontSize="24" autoSize="none" text="" input="true" prompt="请输入文本"/>
+    <text id="n9_lwe2" name="n9" xy="40,38" size="220,50" font="ui://uq881ondlwe21b" fontSize="24" text="159753"/>
+    <graph id="n10_q3g2" name="n10" xy="157,24" size="182,140" type="polygon" points="140,70,35,130.6218,35.00001,9.37822"/>
+  </displayList>
+</component>

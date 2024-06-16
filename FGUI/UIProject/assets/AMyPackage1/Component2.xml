@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,600">
+  <displayList>
+    <text id="n0_lwe2" name="n0" xy="32,27" size="242,107" group="n3_lwe2" fontSize="24" autoSize="none" text="你好世界"/>
+    <graph id="n1_lwe2" name="n1" xy="58,238" size="100,100" group="n3_lwe2" type="rect"/>
+    <graph id="n2_lwe2" name="n2" xy="255,336" size="100,100" group="n3_lwe2" type="rect"/>
+    <group id="n3_lwe2" name="trigger" xy="32,27" size="323,409"/>
+    <text id="n4_lwe2" name="n4" xy="302,45" size="242,107" group="n7_lwe2" fontSize="24" autoSize="none" text="你好世界"/>
+    <graph id="n5_lwe2" name="n5" xy="544,152" size="100,100" group="n7_lwe2" type="rect"/>
+    <graph id="n6_lwe2" name="n6" xy="644,252" size="100,100" group="n7_lwe2" type="rect"/>
+    <group id="n7_lwe2" name="trigger2" xy="302,45" size="442,307" visible="false" advanced="true"/>
+  </displayList>
+</component>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,600">
+  <displayList>
+    <graph id="n0_lwe2" name="n0" xy="275,67" size="100,92" type="rect" fillColor="#ff33ff00">
+      <relation target="n1_lwe2" sidePair="left-left,top-top"/>
+    </graph>
+    <graph id="n1_lwe2" name="n1" xy="636,202" size="100,100" type="rect"/>
+    <loader id="n2_lwe2" name="n2" xy="41,51" pivot="0.5,0.5" size="198,98" url="ui://uq881ondlwe21"/>
+    <loader id="n3_lwe2" name="n3" xy="34,240" size="64,128" url="ui://uq881ondlwe22"/>
+  </displayList>
+</component>
