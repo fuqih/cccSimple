@@ -1,6 +1,6 @@
+import AVirtualScrollView from "../../../resources/ZOther/VirtualList/AVirtualScrollView";
 import { BaseUIKeeperView } from "../../GameBaseUIViews/BaseUIKeeperView";
 import { UIManager } from "../../GameSystems/UIManager";
-import AVirtualScrollView from "../../GameUtilitys/CommonUtilitys/AVirtualScrollView";
 import ScrollOptimizer from "../../GameUtilitys/CommonUtilitys/ScrollOptimizer";
 import ListItem from "../CommonItems/ListItem";
 
