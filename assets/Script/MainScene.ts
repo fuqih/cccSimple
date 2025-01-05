@@ -15,6 +15,7 @@ export default class MainScene extends cc.Component implements IController {
         this.getArchitecture().GetSystem(UIManager).open(UIID.ExampleJump)
     }
     start() {
+        
         //检查图集内存占用
         // let assets = cc.assetManager.assets
         // let sum: number = 0;
